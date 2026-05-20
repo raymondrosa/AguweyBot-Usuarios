@@ -1,22 +1,22 @@
+# Crear archivo .gitignore
+cat > .gitignore << 'EOF'
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-
-# Entornos virtuales
 venv/
 env/
 ENV/
-env.bak/
-venv.bak/
+.env
+.venv
 
 # Streamlit
 .streamlit/secrets.toml
 .streamlit/config.toml
 
-# Datos de usuarios (importante!)
+# Datos de usuarios
 user_data/
 !user_data/.gitkeep
 
@@ -27,6 +27,8 @@ conversaciones_guardadas/
 *.tmp
 *.log
 .DS_Store
+*.mp3
+*.wav
 
 # IDE
 .vscode/
@@ -34,5 +36,7 @@ conversaciones_guardadas/
 *.swp
 *.swo
 
-# Archivos de caché
+# Cache
 .cache/
+*.pyc
+EOF
