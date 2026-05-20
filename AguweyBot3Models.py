@@ -1092,7 +1092,7 @@ def main():
                             st.success("✅ Conversación cargada")
                             st.rerun()
                 with col2:
-                    if st.button("🗑️", key=f"del_{i}", help="Eliminar"):
+                    if st.button("🗑️", key=f"del_{conv['filename']}_{i}", help="Eliminar"):
                         if ConversacionGuardada.eliminar_conversacion(conv["filename"]):
                             st.success("✅ Eliminada")
                             st.rerun()
