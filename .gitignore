@@ -1,1 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 
+# Entornos virtuales
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Datos de usuarios (importante!)
+user_data/
+!user_data/.gitkeep
+
+# Conversaciones locales
+conversaciones_guardadas/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de caché
+.cache/
