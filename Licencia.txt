@@ -1,0 +1,24 @@
+# Licencia Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+## Usted es libre de:
+- **Compartir** — copiar y redistribuir el material en cualquier medio o formato
+- **Adaptar** — remezclar, transformar y construir a partir del material
+  para cualquier propósito, incluso comercialmente.
+
+## Bajo las siguientes condiciones:
+
+- **Atribución** — Debe dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciante.
+
+- **CompartirIgual** — Si remezcla, transforma o construye a partir del material, debe distribuir sus contribuciones bajo la misma licencia que el original.
+
+- **No hay restricciones adicionales** — No puede aplicar términos legales o medidas tecnológicas que restrinjan legalmente a otros de hacer cualquier cosa que permita la licencia.
+
+## Texto legal completo:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.es
+
+---
+
+**AguweyBot - Asistente Multi-Modelo IA**
+Copyright (c) 2026 Prof. Raymond Rosa Ávila
+
+Esta obra está bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International License.
